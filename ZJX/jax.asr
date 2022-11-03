@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\SamVa\Documents\AVTSUSA\Sector-Files\ZJX\JAX_2210.sct2
+SECTORFILE:C:\Users\SamVa\Documents\GitHub\Sector-Files\ZJX\JAX_2210.sct2
 SECTORTITLE:JAX_2210.sct2
 Free Text:SCT2\14:freetext
 Free Text:SCT2\26:freetext
@@ -59,7 +59,7 @@ Free Text:SCT2\UPS:freetext
 Free Text:SCT2\V:freetext
 Geo:GEO:
 SHOWC:1
-SHOWSB:0
+SHOWSB:1
 BELOW:0
 ABOVE:0
 LEADER:5
@@ -70,4 +70,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)
-WINDOWAREA:30.496174:-81.681126:30.498285:-81.676047
+WINDOWAREA:30.023212:-82.737868:30.958663:-80.637242
