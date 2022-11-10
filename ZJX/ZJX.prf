@@ -1,18 +1,18 @@
 Settings	sector	\ZJX_ES_2208.sct2
-LastSession	connecttype	2
-LastSession	callsign	DAB_H_APP
+LastSession	connecttype	0
+LastSession	callsign	JAX_N_APP
 LastSession	realname	Samuel Valencia
 LastSession	certificate	349600
 LastSession	password	345871
 LastSession	facility	5
 LastSession	rating	11
-LastSession	server	voice.avts.me
+LastSession	server	127.0.0.1
 LastSession	tovatsim	0
 LastSession	range	100
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 Settings	alias	C:\Users\SamVa\Desktop\KJAX.txt
-LastSession	scenario	C:\Users\SamVa\Documents\GitHub\Training-Files\ZJX\KDAB\ATCT Sim\DAB_W-N.txt
+LastSession	scenario	C:\Users\SamVa\Documents\GitHub\Training-Files\ZJX\KJAX\TRACON Sim\JAX-E.txt
 RecentFiles	Recent2	\jax.asr
 RecentFiles	Recent3	\KMCO\mco.asr
 Sounds	Sound0	C:\Program Files (x86)\EuroScope\Sounds\handoff_request.wav
@@ -47,3 +47,4 @@ ASRFastKeys	2	\KMCO\mco.asr
 ASRFastKeys	3	\KSAV\sav.asr
 ASRFastKeys	4	\KSFB\KSFB.asr
 RecentFiles	Recent11	\mco.asr
+RecentFiles	Recent1	\sav.asr
