@@ -67,4 +67,38 @@ AVL_TWR:Asheville Tower:121.100:VT:T:AVL:TWR:KAVL:TWR:
 AVL_E_APP:Asheville East Approach:125.800:VE:E:AVL:APP:AVL:East APP:
 AVL_W_APP:Asheville West Approach:124.650:VW:W:AVL:APP:AVL:West APP:
 
+;CLT ATCT
+CLT_DEL:Charlotte Clearance Delivery:127.150:CCD:D:CLT:DEL:KCLT:DEL:
+CLT_E_GND:Charlotte East Ground:121.900:CEG:G:CLT:GND:KCLT:East GND:
+CLT_W_GND:Charlotte West Ground:121.800:CWG:G:CLT:GND:KCLT:West GND:
+CLT_E_TWR:Charlotte East Tower:118.100:CET:T:CLT:TWR:KCLT:East TWR:
+CLT_W_TWR:Charlotte West Tower:133.350:CWT:T:CLT:TWR:KCLT:West TWR:
+
+;CLT TRACON
+CLT_E_APP:Charlotte East Feeder:126.150:CE:E:CLT:APP:CLT:East Feeder:
+CLT_N_APP:Charlotte Northwest Feeder:125.350:CN:N:CLT:APP:CLT:Northwest Feeder:
+CLT_S_APP:Charlotte Southwest Feeder:135.600:CS:S:CLT:APP:CLT:South Feeder:
+CLT_B_DEP:Charlotte East Departure:124.000:CB:B:CLT:DEP:CLT:East DEP:
+CLT_W_DEP:Charlotte West Departure:120.500:CW:W:CLT:DEP:CLT:West DEP:
+CLT_F_APP:Charlotte East Final:127.700:CF:F:CLT:APP:CLT:East Final:
+CLT_V_APP:Charlotte West Final:132.700:CV:V:CLT:APP:CLT:West Final:
+CLT_A_APP:Charlotte Center Final:119.000:CA:A:CLT:APP:CLT:Center Final:
+CLT_O_APP:Charlotte South Satellite:120.050:CO:O:CLT:APP:CLT:South Sat:
+CLT_R_APP:Charlotte North Satellite:134.750:CR:R:CLT:APP:CLT:North Sat:
+CLT_C_APP:Charlotte Concord Satellite:128.320:CC:C:CLT:APP:CLT:Concord Sat:
+
+;GSO ATCT
+GSO_DEL:Greensboro Clearance Delivery:121.750:SCD:D:GSO:DEL:KGSO:DEL:
+GSO_GND:Greensboro Ground:121.900:SGC:G:GSO:GND:KGSO:GND:
+GSO_TWR:Greensboro Tower:119.000:ST:T:GSO:TWR:KGSO:TWR:
+
+;GSO TRACON
+GSO_W_APP:Greensboro West Approach:124.350:SW:W:GSO:APP:GSO:West APP:
+GSO_S_APP:Greensboro South Approach:126.600:SS:S:GSO:APP:GSO:South APP:
+GSO_E_APP:Greensboro East Approach:120.900:SE:E:GSO:APP:GSO:East APP:
+GSO_F_APP:Greensboro Final Approach:125.600:SF:F:GSO:APP:GSO:Final APP:
+
 ;A80 TRACON
+ATL_H_APP:Atlanta Southeast Feeder:127.900:AH:H:ATL:APP:ATL:Southeast Feeder:
+
+;ZTL Enroute
