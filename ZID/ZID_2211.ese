@@ -14,17 +14,63 @@ SDF_E_TWR:Louisville East Tower:118.300:SET:T:SDF:TWR:KSDF:East TWR:1000:2777
 SDF_W_TWR:Louisville West Tower:118.500:SWT:T:SDF:TWR:KSDF:West TWR:1000:2777
 
 ;SDF TRACON
-SDF_E_APP:Louisville East Approach:123.660:SE:E:SDF:APP:SDF:East Departure:1000:2777
-SDF_W_APP:Louisville West Approach:134.150:SW:W:SDF:APP:SDF:West Departure:1000:2777
+SDF_E_APP:Louisville East Approach:123.660:SE:E:SDF:APP:SDF:East APP:1000:2777
+SDF_W_APP:Louisville West Approach:134.150:SW:W:SDF:APP:SDF:West APP:1000:2777
 SDF_F_APP:Louisville East Final:120.300:SF:F:SDF:APP:SDF:East Final:1000:2777
 SDF_V_APP:Louisville West Final:135.775:SV:V:SDF:APP:SDF:West Final:1000:2777
-SDF_B_DEP:Louisville East Departure:132.075:SB:B:SDF:DEP:SDF:East Departure:1000:2777
-SDF_D_DEP:Louisville West Departure:123.675:SD:D:SDF:DEP:SDF:West Departure:1000:2777
+SDF_B_DEP:Louisville East Departure:132.075:SB:B:SDF:DEP:SDF:East DEP:1000:2777
+SDF_D_DEP:Louisville West Departure:123.675:SD:D:SDF:DEP:SDF:West DEP:1000:2777
 
 ;IND ATCT
+IND_DEL:Indianapolis Clearance Delivery:128.750:ICD:D:IND:DEL:KIND:DEL:1000:2777
+IND_GND:Indianapolis Ground:121.900:IGC:G:IND:GND:KIND:GND:1000:2777
+IND_E_TWR:Indianapolis East Tower:120.800:IET:T:IND:TWR:KIND:East TWR:1000:2777
+IND_W_TWR:Indianapolis West Tower:127.825:IWT:T:IND:TWR:KIND:West TWR:1000:2777
 
 ;IND TRACON
+IND_E_APP:Indianapolis East Feeder:119.300:IE:E:IND:APP:IND:East APP:1000:2777
+IND_W_APP:Indianapolis West Feeder:121.100:IW:W:IND:APP:IND:West APP:1000:2777
+IND_F_APP:Indianapolis East Final:123.950:IF:F:IND:APP:IND:East Final:1000:2777
+IND_V_APP:Indianapolis West Final:120.520:IV:V:IND:APP:IND:West Final:1000:2777
+IND_A_DEP:Indianpolis West Departure:119.050:IA:A:IND:DEP:IND:West DEP:1000:2777
+IND_B_DEP:Indianpolis East Departure:124.950:IB:B:IND:DEP:IND:East DEP:1000:2777
+IND_N_APP:Indianapolis North Satellite:124.650:IN:N:IND:APP:IND:North SAT:1000:2777
+IND_S_APP:Indianapolis South Satellite:127.150:IS:S:IND:APP:IND:South SAT:1000:2777
 
 ;CVG ATCT
+CVG_DEL:Cincinnati Clearance Delivery:126.650:CCD:D:CVG:DEL:KCVG:DEL:1000:3777
+CVG_GND:Cincinnati Ground:121.700:CGC:G:CVG:GND:KCVG:GND:1000:3777
+CVG_W_TWR:Cincinnati West Tower:133.325:CWT:T:CVG:TWR:KCVG:West TWR:1000:3777
+CVG_E_TWR:Cincinnati East Tower:118.975:CET:T:CVG:TWR:KCVG:East TWR:1000:3777
+CVG_C_TWR:Cincinnati Center Tower:118.300:CCT:T:CVG:TWR:KCVG:Center TWR:1000:3777
 
 ;CVG TRACON
+CVG_S_APP:Cincinnati South Approach:119.700:CS:S:CVG:APP:CVG:South APP:1000:3777
+CVG_N_APP:Cincinnati North Approach:123.875:CN:N:CVG:APP:CVG:North APP:1000:3777
+CVG_E_DEP:Cincinnati East Departure:121.000:CE:E:CVG:DEP:CVG:East DEP:1000:3777
+CVG_W_DEP:Cincinnati West Departure:128.700:CW:W:CVG:DEP:CVG:West DEP:1000:3777
+
+;ZID
+;   Primary
+IND_34_CTR:Indianapolis Shelbyville Center:119.550:C34:C:IND:CTR:ZID:34:1000:3777
+
+;   Low Centers
+IND_25_CTR:Indianapolis Hazard Center:126.575:C25:C:IND:CTR:ZID:25:1000:3777
+IND_21_CTR:Indianapolis London Center:121.325:C21:C:IND:CTR:ZID:21:1000:3777
+IND_35_CTR:Indianapolis Terre Haute Center:132.200:C35:C:IND:CTR:ZID:35:1000:3777
+IND_33_CTR:Indianapolis Muncie Center:124.525:C33:C:IND:CTR:ZID:33:1000:3777
+IND_89_CTR:Indianapolis Center:133.425:C89:C:IND:CTR:ZID:89:1000:3777
+IND_24_CTR:Indianapolis Parkesburg Center:125.550:C24:C:IND:CTR:ZID:24:1000:3777
+IND_30_CTR:Indianapolis Columbus Center:124.450:C30:C:IND:CTR:ZID:30:1000:3777
+
+;   High Centers
+IND_78_CTR:Indianapolis Springfield Center:135.800:C78:C:IND:CTR:ZID:78:1000:3777
+IND_80_CTR:Indianapolis King Center:134.175:C80:C:IND:CTR:ZID:80:1000:3777
+IND_75_CTR:Indianapolis Rushville Center:125.125:C75:C:IND:CTR:ZID:75:1000:3777
+IND_77_CTR:Indianapolis University Center:125.075:C77:C:IND:CTR:ZID:77:1000:3777
+IND_87_CTR:Indianapolis Appleton Center:132.825:C87:C:IND:CTR:ZID:87:1000:3777
+
+;   Ultra-High Centers
+IND_76_CTR:Indianapolis Batesville Center:134.700:C76:C:IND:CTR:ZID:76:1000:3777
+IND_99_CTR:Indianapolis Wabash Center:132.775:C99:C:IND:CTR:ZID:99:1000:3777
+IND_97_CTR:Indianapolis Lockbounre Center:133.775:C97:C:IND:CTR:ZID:97:1000:3777
