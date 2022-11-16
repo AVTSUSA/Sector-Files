@@ -7,185 +7,195 @@
 
 [POSITIONS]
 ;ATL ATCT
-ATL_1_DEL:Atlanta Clearance Delivery:118.100:AD1:D:ATL:DEL:KATL:DEL 1:
-ATL_2_DEL:Atlanta Clearance Delivery:118.700:AD2:D:ATL:DEL:KATL:DEL 2:
-ATL_N_GND:Atlanta North Ground:121.900:ANG:G:ATL:GND:KATL:North GND:
-ATL_S_GND:Atlanta South Ground:121.750:ASG:G:ATL:GND:KATL:South GND:
-ATL_C_GND:Atlanta Center Ground:121.750:ACG:G:ATL:GND:KATL:Center GND:
-ATL_N_TWR:Atlanta One Tower (08L/26R):119.100:ANT:T:ATL:TWR:KATL:8L/26R TWR:
-ATL_2_TWR:Atlanta Two Tower (08R/26L):125.320:A2T:T:ATL:TWR:KATL:8R/26L TWR:
-ATL_C_TWR:Atlanta Three Tower (09L/27R):123.850:ACT:T:ATL:TWR:KATL:9L/27R TWR:
-ATL_S_TWR:Atlanta Four Tower (09R/27L):119.300:AST:T:ATL:TWR:KATL:9R/27L TWR:
-ATL_5_TWR:Atlanta Five Tower (10/28):119.500:A5T:T:ATL:TWR:KATL:10/28 TWR:
+ATL_1_DEL:Atlanta Clearance Delivery:118.100:AD1:D:ATL:DEL:KATL:DEL 1:7201:7277
+ATL_2_DEL:Atlanta Clearance Delivery:118.700:AD2:D:ATL:DEL:KATL:DEL 2:7201:7277
+ATL_N_GND:Atlanta North Ground:121.900:ANG:G:ATL:GND:KATL:North GND:7201:7277
+ATL_S_GND:Atlanta South Ground:121.750:ASG:G:ATL:GND:KATL:South GND:7201:7277
+ATL_C_GND:Atlanta Center Ground:121.750:ACG:G:ATL:GND:KATL:Center GND:7201:7277
+ATL_N_TWR:Atlanta One Tower (08L/26R):119.100:ANT:T:ATL:TWR:KATL:8L/26R TWR:7201:7277
+ATL_2_TWR:Atlanta Two Tower (08R/26L):125.320:A2T:T:ATL:TWR:KATL:8R/26L TWR:7201:7277
+ATL_C_TWR:Atlanta Three Tower (09L/27R):123.850:ACT:T:ATL:TWR:KATL:9L/27R TWR:7201:7277
+ATL_S_TWR:Atlanta Four Tower (09R/27L):119.300:AST:T:ATL:TWR:KATL:9R/27L TWR:7201:7277
+ATL_5_TWR:Atlanta Five Tower (10/28):119.500:A5T:T:ATL:TWR:KATL:10/28 TWR:7201:7277
 
 ;BHM ATCT
-BHM_DEL:Birmingham Clearance Delivery:126.675:BCD:D:BHM:DEL:KBHM:DEL:
-BHM_GND:Birmingham Ground:121.700:BGC:G:BHM:GND:KBHM:GND:
-BHM_E_TWR:Birmingham East Tower:119.900:BET:T:BHM:TWR:KBHM:East TWR:
-BHM_W_TWR:Birmingham West Tower:118.250:BWT:T:BHM:TWR:KBHM:West TWR:
+BHM_DEL:Birmingham Clearance Delivery:126.675:BCD:D:BHM:DEL:KBHM:DEL:0300:0377
+BHM_GND:Birmingham Ground:121.700:BGC:G:BHM:GND:KBHM:GND:0300:0377
+BHM_E_TWR:Birmingham East Tower:119.900:BET:T:BHM:TWR:KBHM:East TWR:0300:0377
+BHM_W_TWR:Birmingham West Tower:118.250:BWT:T:BHM:TWR:KBHM:West TWR:0300:0377
 
 ;BHM TRACON
-BHM_S_APP:Birmingham South Approach:123.800:BS:S:BHM:APP:BHM:South APP:
-BHM_N_APP:Birmingham North Approach:127.675:BN:N:BHM:APP:BHM:North APP:
-BHM_F_APP:Birmingham Final Approach:126.150:BF:F:BHM:APP:BHM:Final APP:
-BHM_W_APP:Birmingham West Satellite:120.150:BW:W:BHM:APP:BHM:West SAT:
-BHM_E_APP:Birmingham East Satellite:120.050:BW:W:BHM:APP:BHM:East SAT:
+BHM_S_APP:Birmingham South Approach:123.800:BS:S:BHM:APP:BHM:South APP:0300:0377
+BHM_N_APP:Birmingham North Approach:127.675:BN:N:BHM:APP:BHM:North APP:0300:0377
+BHM_F_APP:Birmingham Final Approach:126.150:BF:F:BHM:APP:BHM:Final APP:0300:0377
+BHM_W_APP:Birmingham West Satellite:120.150:BW:W:BHM:APP:BHM:West SAT:0300:0377
+BHM_E_APP:Birmingham East Satellite:120.050:BW:W:BHM:APP:BHM:East SAT:0300:0377
 
 ;MGM ATCT
-MGM_DEL:Montgomery Clearance Delivery:118.300:MCD:D:MGM:DEL:KMGM:DEL:
-MGM_GND:Montgomery Clearance Delivery:118.300:MGC:G:MGM:DEL:KMGM:GND:
-MGM_TWR:Montgomery Clearance Delivery:118.300:MT:T:MGM:DEL:KMGM:TWR:
+MGM_DEL:Montgomery Clearance Delivery:118.300:MCD:D:MGM:DEL:KMGM:DEL:0201:0277
+MGM_GND:Montgomery Clearance Delivery:118.300:MGC:G:MGM:DEL:KMGM:GND:0201:0277
+MGM_TWR:Montgomery Clearance Delivery:118.300:MT:T:MGM:DEL:KMGM:TWR:0201:0277
 
 ;MGM TRACON
-MGM_S_APP:Montgomery South Approach:124.000:MS:S:MGM:APP:MGM:South APP:
-MGM_N_APP:Montgomery North Approach:121.200:MN:N:MGM:APP:MGM:North APP:
-MGM_F_APP:Montgomery Final Approach:132.450:MF:F:MGM:APP:MGM:Final APP:
+MGM_S_APP:Montgomery South Approach:124.000:MS:S:MGM:APP:MGM:South APP:0201:0277
+MGM_N_APP:Montgomery North Approach:121.200:MN:N:MGM:APP:MGM:North APP:0201:0277
+MGM_F_APP:Montgomery Final Approach:132.450:MF:F:MGM:APP:MGM:Final APP:0201:0277
 
 ;TYS ATCT
-TYS_DEL:Knoxville Clearance Delivery:121.650:TCD:D:TYS:DEL:KTYS:DEL:
-TYS_GND:Knoxville Ground:121.900:TGC:G:TYS:GND:KTYS:GND:
-TYS_TWR:Knoxville Tower:121.200:TT:T:TYS:TWR:KTYS:TWR:
+TYS_DEL:Knoxville Clearance Delivery:121.650:TCD:D:TYS:DEL:KTYS:DEL:7201:7277
+TYS_GND:Knoxville Ground:121.900:TGC:G:TYS:GND:KTYS:GND:7201:7277
+TYS_TWR:Knoxville Tower:121.200:TT:T:TYS:TWR:KTYS:TWR:7201:7277
 
 ;TYS TRACON
-TYS_W_APP:Knoxville West Approach:123.900:TW:W:TYS:APP:TYS:West APP:
-TYS_E_APP:Knoxville East Approach:118.000:TE:E:TYS:APP:TYS:East APP:
+TYS_W_APP:Knoxville West Approach:123.900:TW:W:TYS:APP:TYS:West APP:7201:7277
+TYS_E_APP:Knoxville East Approach:118.000:TE:E:TYS:APP:TYS:East APP:7201:7277
 
 ;GSP ATCT
-GSP_GND:Greer Ground:121.900:GGC:G:GSP:GND:KGSP:GND:
-GSP_TWR:Greer Tower:120.100:GT:T:GSP:TWR:KGSP:TWR:
+GSP_GND:Greer Ground:121.900:GGC:G:GSP:GND:KGSP:GND:4101:4177
+GSP_TWR:Greer Tower:120.100:GT:T:GSP:TWR:KGSP:TWR:4101:4177
 
 ;GSP TRACON
-GSP_W_APP:Greer West Approach:118.800:GW:W:GSP:APP:GSP:West APP:
-GSP_E_APP:Greer East Approach:119.400:GE:E:GSP:APP:GSP:East APP:
-GSP_S_APP:Greer South Approach:120.600:GS:S:GSP:APP:GSP:South APP:
+GSP_W_APP:Greer West Approach:118.800:GW:W:GSP:APP:GSP:West APP:4101:4177
+GSP_E_APP:Greer East Approach:119.400:GE:E:GSP:APP:GSP:East APP:4101:4177
+GSP_S_APP:Greer South Approach:120.600:GS:S:GSP:APP:GSP:South APP:4101:4177
 
 ;AVL ATCT
-AVL_GND:Asheville Ground:121.900:VGC:G:AVL:GND:KAVL:GND:
-AVL_TWR:Asheville Tower:121.100:VT:T:AVL:TWR:KAVL:TWR:
+AVL_GND:Asheville Ground:121.900:VGC:G:AVL:GND:KAVL:GND:3101:3177
+AVL_TWR:Asheville Tower:121.100:VT:T:AVL:TWR:KAVL:TWR:3101:3177
 
 ;AVL TRACON
-AVL_E_APP:Asheville East Approach:125.800:VE:E:AVL:APP:AVL:East APP:
-AVL_W_APP:Asheville West Approach:124.650:VW:W:AVL:APP:AVL:West APP:
+AVL_E_APP:Asheville East Approach:125.800:VE:E:AVL:APP:AVL:East APP:3101:3177
+AVL_W_APP:Asheville West Approach:124.650:VW:W:AVL:APP:AVL:West APP:3101:3177
 
 ;CLT ATCT
-CLT_DEL:Charlotte Clearance Delivery:127.150:CCD:D:CLT:DEL:KCLT:DEL:
-CLT_E_GND:Charlotte East Ground:121.900:CEG:G:CLT:GND:KCLT:East GND:
-CLT_W_GND:Charlotte West Ground:121.800:CWG:G:CLT:GND:KCLT:West GND:
-CLT_E_TWR:Charlotte East Tower:118.100:CET:T:CLT:TWR:KCLT:East TWR:
-CLT_W_TWR:Charlotte West Tower:133.350:CWT:T:CLT:TWR:KCLT:West TWR:
+CLT_DEL:Charlotte Clearance Delivery:127.150:CCD:D:CLT:DEL:KCLT:DEL:6301:6377
+CLT_E_GND:Charlotte East Ground:121.900:CEG:G:CLT:GND:KCLT:East GND:6301:6377
+CLT_W_GND:Charlotte West Ground:121.800:CWG:G:CLT:GND:KCLT:West GND:6301:6377
+CLT_E_TWR:Charlotte East Tower:118.100:CET:T:CLT:TWR:KCLT:East TWR:6301:6377
+CLT_W_TWR:Charlotte West Tower:133.350:CWT:T:CLT:TWR:KCLT:West TWR:6301:6377
 
 ;CLT TRACON
-CLT_E_APP:Charlotte East Feeder:126.150:CE:E:CLT:APP:CLT:East Feeder:
-CLT_N_APP:Charlotte Northwest Feeder:125.350:CN:N:CLT:APP:CLT:Northwest Feeder:
-CLT_S_APP:Charlotte Southwest Feeder:135.600:CS:S:CLT:APP:CLT:South Feeder:
-CLT_B_DEP:Charlotte East Departure:124.000:CB:B:CLT:DEP:CLT:East DEP:
-CLT_W_DEP:Charlotte West Departure:120.500:CW:W:CLT:DEP:CLT:West DEP:
-CLT_F_APP:Charlotte East Final:127.700:CF:F:CLT:APP:CLT:East Final:
-CLT_V_APP:Charlotte West Final:132.700:CV:V:CLT:APP:CLT:West Final:
-CLT_A_APP:Charlotte Center Final:119.000:CA:A:CLT:APP:CLT:Center Final:
-CLT_O_APP:Charlotte South Satellite:120.050:CO:O:CLT:APP:CLT:South Sat:
-CLT_R_APP:Charlotte North Satellite:134.750:CR:R:CLT:APP:CLT:North Sat:
-CLT_C_APP:Charlotte Concord Satellite:128.320:CC:C:CLT:APP:CLT:Concord Sat:
+CLT_E_APP:Charlotte East Feeder:126.150:CE:E:CLT:APP:CLT:East Feeder:6301:6377
+CLT_N_APP:Charlotte Northwest Feeder:125.350:CN:N:CLT:APP:CLT:Northwest Feeder:6301:6377
+CLT_S_APP:Charlotte Southwest Feeder:135.600:CS:S:CLT:APP:CLT:South Feeder:6301:6377
+CLT_B_DEP:Charlotte East Departure:124.000:CB:B:CLT:DEP:CLT:East DEP:6301:6377
+CLT_W_DEP:Charlotte West Departure:120.500:CW:W:CLT:DEP:CLT:West DEP:6301:6377
+CLT_F_APP:Charlotte East Final:127.700:CF:F:CLT:APP:CLT:East Final:6301:6377
+CLT_V_APP:Charlotte West Final:132.700:CV:V:CLT:APP:CLT:West Final:6301:6377
+CLT_A_APP:Charlotte Center Final:119.000:CA:A:CLT:APP:CLT:Center Final:6301:6377
+CLT_O_APP:Charlotte South Satellite:120.050:CO:O:CLT:APP:CLT:South Sat:6301:6377
+CLT_R_APP:Charlotte North Satellite:134.750:CR:R:CLT:APP:CLT:North Sat:6301:6377
+CLT_C_APP:Charlotte Concord Satellite:128.320:CC:C:CLT:APP:CLT:Concord Sat:6301:6377
 
 ;GSO ATCT
-GSO_DEL:Greensboro Clearance Delivery:121.750:SCD:D:GSO:DEL:KGSO:DEL:
-GSO_GND:Greensboro Ground:121.900:SGC:G:GSO:GND:KGSO:GND:
-GSO_TWR:Greensboro Tower:119.000:ST:T:GSO:TWR:KGSO:TWR:
+GSO_DEL:Greensboro Clearance Delivery:121.750:SCD:D:GSO:DEL:KGSO:DEL:3501:3577
+GSO_GND:Greensboro Ground:121.900:SGC:G:GSO:GND:KGSO:GND:3501:3577
+GSO_TWR:Greensboro Tower:119.000:ST:T:GSO:TWR:KGSO:TWR:3501:3577
 
 ;GSO TRACON
-GSO_W_APP:Greensboro West Approach:124.350:SW:W:GSO:APP:GSO:West APP:
-GSO_S_APP:Greensboro South Approach:126.600:SS:S:GSO:APP:GSO:South APP:
-GSO_E_APP:Greensboro East Approach:120.900:SE:E:GSO:APP:GSO:East APP:
-GSO_F_APP:Greensboro Final Approach:125.600:SF:F:GSO:APP:GSO:Final APP:
+GSO_W_APP:Greensboro West Approach:124.350:SW:W:GSO:APP:GSO:West APP:3501:3577
+GSO_S_APP:Greensboro South Approach:126.600:SS:S:GSO:APP:GSO:South APP:3501:3577
+GSO_E_APP:Greensboro East Approach:120.900:SE:E:GSO:APP:GSO:East APP:3501:3577
+GSO_F_APP:Greensboro Final Approach:125.600:SF:F:GSO:APP:GSO:Final APP:3501:3577
 
 ;A80 TRACON
 ;   Feeders
-ATL_H_APP:Atlanta Southeast Feeder:127.900:AH:H:ATL:APP:A80:Southeast Feeder:
-ATL_D_APP:Atlanta Northwest Feeder:128.000:AD:D:ATL:APP:A80:Northwest Feeder:
-ATL_L_APP:Atlanta Southeast Feeder:128.525:AL:L:ATL:APP:A80:Northeast Feeder:
-ATL_Y_APP:Atlanta Northwest Feeder:124.725:AY:Y:ATL:APP:A80:Southwest Feeder:
+ATL_H_APP:Atlanta Southeast Feeder:127.900:AH:H:ATL:APP:A80:Southeast Feeder:0401:0477
+ATL_D_APP:Atlanta Northwest Feeder:128.000:AD:D:ATL:APP:A80:Northwest Feeder:0401:0477
+ATL_L_APP:Atlanta Southeast Feeder:128.525:AL:L:ATL:APP:A80:Northeast Feeder:0401:0477
+ATL_Y_APP:Atlanta Northwest Feeder:124.725:AY:Y:ATL:APP:A80:Southwest Feeder:0401:0477
 
 ;   Finals
-ATL_O_APP:Atlanta Center Final:124.600:AO:O:ATL:APP:A80:Center Final:
-ATL_V_APP:Atlanta North Departure:133.475:AV:V:ATL:APP:A80:North Final:
-ATL_A_APP:Atlanta South Departure:120.000:AA:A:ATL:APP:A80:South Final:
+ATL_O_APP:Atlanta Center Final:124.600:AO:O:ATL:APP:A80:Center Final:0401:0477
+ATL_V_APP:Atlanta North Departure:133.475:AV:V:ATL:APP:A80:North Final:0401:0477
+ATL_A_APP:Atlanta South Departure:120.000:AA:A:ATL:APP:A80:South Final:0401:0477
 
 ;   Departures
-ATL_N_DEP:Atlanta North Departure:133.475:AN:N:ATL:DEP:A80:North DEP:
-ATL_S_DEP:Atlanta South Departure:125.650:AS:S:ATL:DEP:A80:South DEP:
-ATL_I_DEP:Atlanta Departure:121.275:AI:I:ATL:DEP:A80:Center DEP:
+ATL_N_DEP:Atlanta North Departure:133.475:AN:N:ATL:DEP:A80:North DEP:0401:0477
+ATL_S_DEP:Atlanta South Departure:125.650:AS:S:ATL:DEP:A80:South DEP:0401:0477
+ATL_I_DEP:Atlanta Departure:121.275:AI:I:ATL:DEP:A80:Center DEP:0401:0477
 
 ;  Satellite
-ATL_P_APP:Atlanta Northeast Satellite:126.975:AP:P:ATL:APP:A80:Northeast Sat:
-ATL_F_APP:Atlanta Northwest Satellite:121.000:AF:F:ATL:APP:A80:Northwest Sat:
-ATL_X_APP:Atlanta Southwest Satellite:119.800:AX:X:ATL:APP:A80:Southwest Sat:
-ATL_G_APP:Atlanta Southeast Satellite:128.575:AG:G:ATL:APP:A80:Southeast Sat:
-ATL_Q_APP:Atlanta Peachtree Satellite:124.300:AQ:Q:ATL:APP:A80:Peachtree Sat:
-ATL_E_APP:Atlanta Outer Satellite:132.475:AE:E:ATL:APP:A80:Outer Sat:
+ATL_P_APP:Atlanta Northeast Satellite:126.975:AP:P:ATL:APP:A80:Northeast Sat:0401:0477
+ATL_F_APP:Atlanta Northwest Satellite:121.000:AF:F:ATL:APP:A80:Northwest Sat:0401:0477
+ATL_X_APP:Atlanta Southwest Satellite:119.800:AX:X:ATL:APP:A80:Southwest Sat:0401:0477
+ATL_G_APP:Atlanta Southeast Satellite:128.575:AG:G:ATL:APP:A80:Southeast Sat:0401:0477
+ATL_Q_APP:Atlanta Peachtree Satellite:124.300:AQ:Q:ATL:APP:A80:Peachtree Sat:0401:0477
+ATL_E_APP:Atlanta Outer Satellite:132.475:AE:E:ATL:APP:A80:Outer Sat:0401:0477
 
 ;  Macon
-MCN_M_APP:Macon Low Approach:124.200:AM:M:MCN:APP:A80:MCN Low:
-MCN_W_APP:Macon High Approach:119.600:AW:W:MCN:APP:A80:MCN High:
+MCN_M_APP:Macon Low Approach:124.200:AM:M:MCN:APP:A80:MCN Low:0401:0477
+MCN_W_APP:Macon High Approach:119.600:AW:W:MCN:APP:A80:MCN High:0401:0477
 
 ;   Columbus
-CSG_Z_APP:Columbus Low Approach:125.000:AZ:Z:CSG:APP:A80:CSG Low:
-CSG_R_APP:Columbus High Approach:126.550:AR:R:CSG:APP:A80:CSG High:
+CSG_Z_APP:Columbus Low Approach:125.000:AZ:Z:CSG:APP:A80:CSG Low:0401:0477
+CSG_R_APP:Columbus High Approach:126.550:AR:R:CSG:APP:A80:CSG High:0401:0477
 
 ;ZTL Enroute
 ;   Area 1
-ATL_48_CTR:Atlanta Wilkes Center:125.150:C48:C:ATL:CTR:ZTL:48:
-ATL_44_CTR:Atlanta Shine Center:132.625:C44:C:ATL:CTR:ZTL:44:
-ATL_45_CTR:Atlanta Bristol Center:127.850:C45:C:ATL:CTR:ZTL:45:
-ATL_47_CTR:Atlanta Moped Center:134.550:C47:C:ATL:CTR:ZTL:47:
-ATL_42_CTR:Atlanta Salem Center:120.725:C42:C:ATL:CTR:ZTL:42:
-ATL_43_CTR:Atlanta Pulaskia Center:132.975:C43:C:ATL:CTR:ZTL:43:
+ATL_48_CTR:Atlanta Wilkes Center:125.150:C48:C:ATL:CTR:ZTL:48:2001:2077
+ATL_44_CTR:Atlanta Shine Center:132.625:C44:C:ATL:CTR:ZTL:44:2001:2077
+ATL_45_CTR:Atlanta Bristol Center:127.850:C45:C:ATL:CTR:ZTL:45:2001:2077
+ATL_47_CTR:Atlanta Moped Center:134.550:C47:C:ATL:CTR:ZTL:47:2001:2077
+ATL_42_CTR:Atlanta Salem Center:120.725:C42:C:ATL:CTR:ZTL:42:2001:2077
+ATL_43_CTR:Atlanta Pulaskia Center:132.975:C43:C:ATL:CTR:ZTL:43:2001:2077
 
 ;   Area 2
-ATL_29_CTR:Atlanta Leeon Center:128.800:C2X:C:ATL:CTR:ZTL:29:
-ATL_30_CTR:Atlanta Locas Center:133.150:C3X:C:ATL:CTR:ZTL:30:
-ATL_31_CTR:Atlanta Unarm Center:135.350:C3X:C:ATL:CTR:ZTL:31:
-ATL_32_CTR:Atlanta Spa Center:126.625:C3X:C:ATL:CTR:ZTL:32:
-ATL_33_CTR:Atlanta Charlotte Center:124.425:C3X:C:ATL:CTR:ZTL:33:
-ATL_34_CTR:Atlanta Georgia Center:120.425:C3X:C:ATL:CTR:ZTL:34:
-ATL_28_CTR:Atlanta High Rock Center:125.025:C2X:C:ATL:CTR:ZTL:28:
+ATL_29_CTR:Atlanta Leeon Center:128.800:C2X:C:ATL:CTR:ZTL:29:2001:2077
+ATL_30_CTR:Atlanta Locas Center:133.150:C3X:C:ATL:CTR:ZTL:30:2001:2077
+ATL_31_CTR:Atlanta Unarm Center:135.350:C3X:C:ATL:CTR:ZTL:31:2001:2077
+ATL_32_CTR:Atlanta Spa Center:126.625:C3X:C:ATL:CTR:ZTL:32:2001:2077
+ATL_33_CTR:Atlanta Charlotte Center:124.425:C3X:C:ATL:CTR:ZTL:33:2001:2077
+ATL_34_CTR:Atlanta Georgia Center:120.425:C3X:C:ATL:CTR:ZTL:34:2001:2077
+ATL_28_CTR:Atlanta High Rock Center:125.025:C2X:C:ATL:CTR:ZTL:28:2001:2077
 
 ;   Area 3
-ATL_18_CTR:Atlanta Commerce Center:134.800:C18:C:ATL:CTR:ZTL:18:
-ATL_16_CTR:Atlanta East Departure Center:134.200:C16:C:ATL:CTR:ZTL:16:
-ATL_49_CTR:Atlanta Logen Center:121.350:C49:C:ATL:CTR:ZTL:49:
-ATL_50_CTR:Atlanta Lanier Center:124.375:C50:C:ATL:CTR:ZTL:50:
-ATL_15_CTR:Atlanta Baden Center:126.775:C15:C:ATL:CTR:ZTL:15:
+ATL_18_CTR:Atlanta Commerce Center:134.800:C18:C:ATL:CTR:ZTL:18:2001:2077
+ATL_16_CTR:Atlanta East Departure Center:134.200:C16:C:ATL:CTR:ZTL:16:2001:2077
+ATL_49_CTR:Atlanta Logen Center:121.350:C49:C:ATL:CTR:ZTL:49:2001:2077
+ATL_50_CTR:Atlanta Lanier Center:124.375:C50:C:ATL:CTR:ZTL:50:2001:2077
+ATL_15_CTR:Atlanta Baden Center:126.775:C15:C:ATL:CTR:ZTL:15:2001:2077
 
 ;   Area 4
-ATL_19_CTR:Atlanta Sinca Center:123.950:CXX:C:ATL:CTR:ZTL:19:
-ATL_21_CTR:Atlanta South Departure Center:134.500:CXX:C:ATL:CTR:ZTL:21:
-ATL_24_CTR:Atlanta Augusta Center:128.100:CXX:C:ATL:CTR:ZTL:24:
-ATL_20_CTR:Atlanta Dublin Center:126.425:CXX:C:ATL:CTR:ZTL:20:
-ATL_22_CTR:Atlanta Macon Center:119.375:CXX:C:ATL:CTR:ZTL:22:
-ATL_23_CTR:Atlanta Clark Hill Center:124.325:CXX:C:ATL:CTR:ZTL:23:
-ATL_27_CTR:Atlanta Hampton Center:125.825:CXX:C:ATL:CTR:ZTL:27:
+ATL_19_CTR:Atlanta Sinca Center:123.950:CXX:C:ATL:CTR:ZTL:19:2001:2077
+ATL_21_CTR:Atlanta South Departure Center:134.500:CXX:C:ATL:CTR:ZTL:21:2001:2077
+ATL_24_CTR:Atlanta Augusta Center:128.100:CXX:C:ATL:CTR:ZTL:24:2001:2077
+ATL_20_CTR:Atlanta Dublin Center:126.425:CXX:C:ATL:CTR:ZTL:20:2001:2077
+ATL_22_CTR:Atlanta Macon Center:119.375:CXX:C:ATL:CTR:ZTL:22:2001:2077
+ATL_23_CTR:Atlanta Clark Hill Center:124.325:CXX:C:ATL:CTR:ZTL:23:2001:2077
+ATL_27_CTR:Atlanta Hampton Center:125.825:CXX:C:ATL:CTR:ZTL:27:2001:2077
 
 ;  Area 5
-ATL_09_CTR:Atlanta Tiroe Center:120.450:C09:C:ATL:CTR:ZTL:09:
-ATL_12_CTR:Atlanta Birmginham Center:127.300:C12:C:ATL:CTR:ZTL:12:
-ATL_13_CTR:Atlanta Montgomery Center:120.550:C13:C:ATL:CTR:ZTL:13:
-ATL_14_CTR:Atlanta Maxwell Center:132.250:C14:C:ATL:CTR:ZTL:14:
-ATL_10_CTR:Atlanta LaGrange Center:125.575:C10:C:ATL:CTR:ZTL:10:
-ATL_11_CTR:Atlanta Monroe Center:128.025:C11:C:ATL:CTR:ZTL:11:
-ATL_08_CTR:Atlanta Martin Lake Center:125.875:C08:C:ATL:CTR:ZTL:08:
+ATL_09_CTR:Atlanta Tiroe Center:120.450:C09:C:ATL:CTR:ZTL:09:2001:2077
+ATL_12_CTR:Atlanta Birmginham Center:127.300:C12:C:ATL:CTR:ZTL:12:2001:2077
+ATL_13_CTR:Atlanta Montgomery Center:120.550:C13:C:ATL:CTR:ZTL:13:2001:2077
+ATL_14_CTR:Atlanta Maxwell Center:132.250:C14:C:ATL:CTR:ZTL:14:2001:2077
+ATL_10_CTR:Atlanta LaGrange Center:125.575:C10:C:ATL:CTR:ZTL:10:2001:2077
+ATL_11_CTR:Atlanta Monroe Center:128.025:C11:C:ATL:CTR:ZTL:11:2001:2077
+ATL_08_CTR:Atlanta Martin Lake Center:125.875:C08:C:ATL:CTR:ZTL:08:2001:2077
 
 ;  Area 6
-ATL_01_CTR:Atlanta Rome Center:124.500:C01:C:ATL:CTR:ZTL:xxx:
-ATL_04_CTR:Atlanta West Departure Center:134.950:C04:C:ATL:CTR:ZTL:xxx:
-ATL_05_CTR:Atlanta Dalas Center:132.050:C05:C:ATL:CTR:ZTL:xxx:
-ATL_03_CTR:Atlanta Gadsen Center:128.725:C03:C:ATL:CTR:ZTL:xxx:
-ATL_06_CTR:Atlanta Rocket Center:133.175:C06:C:ATL:CTR:ZTL:xxx:
-ATL_02_CTR:Atlanta Gunter Center:126.825:C02:C:ATL:CTR:ZTL:xxx:
+ATL_01_CTR:Atlanta Rome Center:124.500:C01:C:ATL:CTR:ZTL:01:2001:2077
+ATL_04_CTR:Atlanta West Departure Center:134.950:C04:C:ATL:CTR:ZTL:04:2001:2077
+ATL_05_CTR:Atlanta Dalas Center:132.050:C05:C:ATL:CTR:ZTL:05:2001:2077
+ATL_03_CTR:Atlanta Gadsen Center:128.725:C03:C:ATL:CTR:ZTL:03:2001:2077
+ATL_06_CTR:Atlanta Rocket Center:133.175:C06:C:ATL:CTR:ZTL:06:2001:2077
+ATL_02_CTR:Atlanta Gunter Center:126.825:C02:C:ATL:CTR:ZTL:02:2001:2077
 
 ;  Area 7
-ATL_38_CTR:Atlanta North Departure Center:133.100:C38:C:ATL:CTR:ZTL:38:
-ATL_41_CTR:Atlanta Mountain Center:133.600:C41:C:ATL:CTR:ZTL:41:
-ATL_37_CTR:Atlanta Center:126.675:C37:C:ATL:CTR:ZTL:37:
-ATL_39_CTR:Atlanta Center:125.925:C39:C:ATL:CTR:ZTL:39:
-ATL_36_CTR:Atlanta Center:124.875:C36:C:ATL:CTR:ZTL:36:
-ATL_40_CTR:Atlanta Center:134.075:C40:C:ATL:CTR:ZTL:40:
+ATL_38_CTR:Atlanta North Departure Center:133.100:C38:C:ATL:CTR:ZTL:38:2001:2077
+ATL_41_CTR:Atlanta Mountain Center:133.600:C41:C:ATL:CTR:ZTL:41:2001:2077
+ATL_37_CTR:Atlanta Center:126.675:C37:C:ATL:CTR:ZTL:37:2001:2077
+ATL_39_CTR:Atlanta Center:125.925:C39:C:ATL:CTR:ZTL:39:2001:2077
+ATL_36_CTR:Atlanta Center:124.875:C36:C:ATL:CTR:ZTL:36:2001:2077
+ATL_40_CTR:Atlanta Center:134.075:C40:C:ATL:CTR:ZTL:40:2001:2077
+
+; ZJX Enroute
+
+; ZID Enroute
+ 
+; ZDC Enroute
+
+; ZME Enroute
+
+; ZHU Enroute
