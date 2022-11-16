@@ -99,6 +99,93 @@ GSO_E_APP:Greensboro East Approach:120.900:SE:E:GSO:APP:GSO:East APP:
 GSO_F_APP:Greensboro Final Approach:125.600:SF:F:GSO:APP:GSO:Final APP:
 
 ;A80 TRACON
-ATL_H_APP:Atlanta Southeast Feeder:127.900:AH:H:ATL:APP:ATL:Southeast Feeder:
+;   Feeders
+ATL_H_APP:Atlanta Southeast Feeder:127.900:AH:H:ATL:APP:A80:Southeast Feeder:
+ATL_D_APP:Atlanta Northwest Feeder:128.000:AD:D:ATL:APP:A80:Northwest Feeder:
+ATL_L_APP:Atlanta Southeast Feeder:128.525:AL:L:ATL:APP:A80:Northeast Feeder:
+ATL_Y_APP:Atlanta Northwest Feeder:124.725:AY:Y:ATL:APP:A80:Southwest Feeder:
+
+;   Finals
+ATL_O_APP:Atlanta Center Final:124.600:AO:O:ATL:APP:A80:Center Final:
+ATL_V_APP:Atlanta North Departure:133.475:AV:V:ATL:APP:A80:North Final:
+ATL_A_APP:Atlanta South Departure:120.000:AA:A:ATL:APP:A80:South Final:
+
+;   Departures
+ATL_N_DEP:Atlanta North Departure:133.475:AN:N:ATL:DEP:A80:North DEP:
+ATL_S_DEP:Atlanta South Departure:125.650:AS:S:ATL:DEP:A80:South DEP:
+ATL_I_DEP:Atlanta Departure:121.275:AI:I:ATL:DEP:A80:Center DEP:
+
+;  Satellite
+ATL_P_APP:Atlanta Northeast Satellite:126.975:AP:P:ATL:APP:A80:Northeast Sat:
+ATL_F_APP:Atlanta Northwest Satellite:121.000:AF:F:ATL:APP:A80:Northwest Sat:
+ATL_X_APP:Atlanta Southwest Satellite:119.800:AX:X:ATL:APP:A80:Southwest Sat:
+ATL_G_APP:Atlanta Southeast Satellite:128.575:AG:G:ATL:APP:A80:Southeast Sat:
+ATL_Q_APP:Atlanta Peachtree Satellite:124.300:AQ:Q:ATL:APP:A80:Peachtree Sat:
+ATL_E_APP:Atlanta Outer Satellite:132.475:AE:E:ATL:APP:A80:Outer Sat:
+
+;  Macon
+MCN_M_APP:Macon Low Approach:124.200:AM:M:MCN:APP:A80:MCN Low:
+MCN_W_APP:Macon High Approach:119.600:AW:W:MCN:APP:A80:MCN High:
+
+;   Columbus
+CSG_Z_APP:Columbus Low Approach:125.000:AZ:Z:CSG:APP:A80:CSG Low:
+CSG_R_APP:Columbus High Approach:126.550:AR:R:CSG:APP:A80:CSG High:
 
 ;ZTL Enroute
+;   Area 1
+ATL_48_CTR:Atlanta Wilkes Center:125.150:C48:C:ATL:CTR:ZTL:48:
+ATL_44_CTR:Atlanta Shine Center:132.625:C44:C:ATL:CTR:ZTL:44:
+ATL_45_CTR:Atlanta Bristol Center:127.850:C45:C:ATL:CTR:ZTL:45:
+ATL_47_CTR:Atlanta Moped Center:134.550:C47:C:ATL:CTR:ZTL:47:
+ATL_42_CTR:Atlanta Salem Center:120.725:C42:C:ATL:CTR:ZTL:42:
+ATL_43_CTR:Atlanta Pulaskia Center:132.975:C43:C:ATL:CTR:ZTL:43:
+
+;   Area 2
+ATL_29_CTR:Atlanta Leeon Center:128.800:C2X:C:ATL:CTR:ZTL:29:
+ATL_30_CTR:Atlanta Locas Center:133.150:C3X:C:ATL:CTR:ZTL:30:
+ATL_31_CTR:Atlanta Unarm Center:135.350:C3X:C:ATL:CTR:ZTL:31:
+ATL_32_CTR:Atlanta Spa Center:126.625:C3X:C:ATL:CTR:ZTL:32:
+ATL_33_CTR:Atlanta Charlotte Center:124.425:C3X:C:ATL:CTR:ZTL:33:
+ATL_34_CTR:Atlanta Georgia Center:120.425:C3X:C:ATL:CTR:ZTL:34:
+ATL_28_CTR:Atlanta High Rock Center:125.025:C2X:C:ATL:CTR:ZTL:28:
+
+;   Area 3
+ATL_18_CTR:Atlanta Commerce Center:134.800:C18:C:ATL:CTR:ZTL:18:
+ATL_16_CTR:Atlanta East Departure Center:134.200:C16:C:ATL:CTR:ZTL:16:
+ATL_49_CTR:Atlanta Logen Center:121.350:C49:C:ATL:CTR:ZTL:49:
+ATL_50_CTR:Atlanta Lanier Center:124.375:C50:C:ATL:CTR:ZTL:50:
+ATL_15_CTR:Atlanta Baden Center:126.775:C15:C:ATL:CTR:ZTL:15:
+
+;   Area 4
+ATL_19_CTR:Atlanta Sinca Center:123.950:CXX:C:ATL:CTR:ZTL:19:
+ATL_21_CTR:Atlanta South Departure Center:134.500:CXX:C:ATL:CTR:ZTL:21:
+ATL_24_CTR:Atlanta Augusta Center:128.100:CXX:C:ATL:CTR:ZTL:24:
+ATL_20_CTR:Atlanta Dublin Center:126.425:CXX:C:ATL:CTR:ZTL:20:
+ATL_22_CTR:Atlanta Macon Center:119.375:CXX:C:ATL:CTR:ZTL:22:
+ATL_23_CTR:Atlanta Clark Hill Center:124.325:CXX:C:ATL:CTR:ZTL:23:
+ATL_27_CTR:Atlanta Hampton Center:125.825:CXX:C:ATL:CTR:ZTL:27:
+
+;  Area 5
+ATL_09_CTR:Atlanta Tiroe Center:120.450:C09:C:ATL:CTR:ZTL:09:
+ATL_12_CTR:Atlanta Birmginham Center:127.300:C12:C:ATL:CTR:ZTL:12:
+ATL_13_CTR:Atlanta Montgomery Center:120.550:C13:C:ATL:CTR:ZTL:13:
+ATL_14_CTR:Atlanta Maxwell Center:132.250:C14:C:ATL:CTR:ZTL:14:
+ATL_10_CTR:Atlanta LaGrange Center:125.575:C10:C:ATL:CTR:ZTL:10:
+ATL_11_CTR:Atlanta Monroe Center:128.025:C11:C:ATL:CTR:ZTL:11:
+ATL_08_CTR:Atlanta Martin Lake Center:125.875:C08:C:ATL:CTR:ZTL:08:
+
+;  Area 6
+ATL_01_CTR:Atlanta Rome Center:124.500:C01:C:ATL:CTR:ZTL:xxx:
+ATL_04_CTR:Atlanta West Departure Center:134.950:C04:C:ATL:CTR:ZTL:xxx:
+ATL_05_CTR:Atlanta Dalas Center:132.050:C05:C:ATL:CTR:ZTL:xxx:
+ATL_03_CTR:Atlanta Gadsen Center:128.725:C03:C:ATL:CTR:ZTL:xxx:
+ATL_06_CTR:Atlanta Rocket Center:133.175:C06:C:ATL:CTR:ZTL:xxx:
+ATL_02_CTR:Atlanta Gunter Center:126.825:C02:C:ATL:CTR:ZTL:xxx:
+
+;  Area 7
+ATL_38_CTR:Atlanta North Departure Center:133.100:C38:C:ATL:CTR:ZTL:38:
+ATL_41_CTR:Atlanta Mountain Center:133.600:C41:C:ATL:CTR:ZTL:41:
+ATL_37_CTR:Atlanta Center:126.675:C37:C:ATL:CTR:ZTL:37:
+ATL_39_CTR:Atlanta Center:125.925:C39:C:ATL:CTR:ZTL:39:
+ATL_36_CTR:Atlanta Center:124.875:C36:C:ATL:CTR:ZTL:36:
+ATL_40_CTR:Atlanta Center:134.075:C40:C:ATL:CTR:ZTL:40:
