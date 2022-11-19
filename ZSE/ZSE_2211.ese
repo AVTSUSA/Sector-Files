@@ -1,0 +1,25 @@
+;NAME:RNAME:FREQ:SECID:ARTSTAG:CALLPREFIX:CALLSUFFIX:LINE1:LINE2:LSQUAWK:HSQUAWK
+;EXAMPLE
+;Observer:ZSE Observer:199.98:OBS:O:ZSE:OBS:OBS:OBS:OBS:OBS
+
+; ZSE ESE File - AIRAC 2211 | Issued 11/18/2022
+
+;======CHANGE LOG======
+;Date, Author - Memo
+;11/18/2022, Samuel Valencia - Created File
+
+[POSITIONS]
+; SEA ATCT
+SEA_DEL:Seattle Clearance Delivery:128.000:SCD:D:SEA:DEL:KSEA:DEL:
+SEA_NR_DEL:Seattle North Ramp:126.875:SNR:R:SEA:DEL:KSEA:North Ramp:
+SEA_SR_DEL:Seattle South Ramp:122.275:SSR:R:SEA:DEL:KSEA:South Ramp:
+SEA_GND:Seattle Ground:121.700:SGC:G:SEA:GND:KSEA:GND:
+SEA_E_TWR:Seattle East Tower:119.900:SET:T:SEA:GND:KSEA:GND:
+SEA_W_TWR:Seattle West Tower:120.950:SWT:T:SEA:GND:KSEA:GND:
+
+; S46 TRACON
+SEA_W_APP:Seattle West Approach:125.600:SW:W:SEA:APP:SEA:West:
+SEA_E_APP:Seattle East Approach:123.900:SE:E:SEA:APP:SEA:East:
+SEA_F_APP:Seattle Final Approach:133.650:SF:F:SEA:APP:SEA:Final:
+SEA_Y_APP:Seattle Yankee Approach:120.400:SY:Y:SEA:APP:SEA:Yankee:
+SEA_DEP:Seattle Departure:119.200:SD:D:SEA:DEP:SEA:DEP:
