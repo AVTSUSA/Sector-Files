@@ -23,3 +23,38 @@ SEA_E_APP:Seattle East Approach:123.900:SE:E:SEA:APP:SEA:East:
 SEA_F_APP:Seattle Final Approach:133.650:SF:F:SEA:APP:SEA:Final:
 SEA_Y_APP:Seattle Yankee Approach:120.400:SY:Y:SEA:APP:SEA:Yankee:
 SEA_DEP:Seattle Departure:119.200:SD:D:SEA:DEP:SEA:DEP:
+
+; PDX ATCT
+PDX_DEL:Portland Clearance Delivery:120.125:PCD:D:PDX:DEL:KPDX:DEL:
+PDX_GND:Portland Ground:121.900:PGC:G:PDX:GND:KPDX:GND:
+PDX_N_TWR:Portland North Tower:118.700:PNT:T:PDX:TWR:KPDX:North TWR:
+PDX_S_TWR:Portland South Tower:123.775:PST:T:PDX:TWR:KPDX:South TWR:
+
+;   PDX TRACON
+PDX_N_APP:Portland North Approach:124.350:PN:N:PDX:APP:PDX:North:
+PDX_H_APP:Portland Hood Approach:118.100:PH:H:PDX:APP:PDX:Hood:
+PDX_F_APP:Portland Final Approach:126.900:PF:F:PDX:APP:PDX:Final:
+PDX_V_APP:Portland Newburg Approach:126.000:PV:V:PDX:APP:PDX:Newburg:
+
+; ZSE Enroute
+;    Area A
+SEA_02_CTR:Seattle Center:128.300:C02:C:SEA:CTR:ZSE:02:
+SEA_03_CTR:Seattle Center:125.100:C03:C:SEA:CTR:ZSE:03:
+SEA_12_CTR:Seattle Center:134.950:C12:C:SEA:CTR:ZSE:12:
+SEA_34_CTR:Seattle Center:119.650:C34:C:SEA:CTR:ZSE:34:
+
+;   Area B
+SEA_06_CTR:Seattle Center:125.800:C06:C:SEA:CTR:ZSE:06:
+SEA_16_CTR:Seattle Center:135.350:C16:C:SEA:CTR:ZSE:16:
+SEA_42_CTR:Seattle Center:132.075:C42:C:SEA:CTR:ZSE:42:
+SEA_46_CTR:Seattle Center:121.350:C46:C:SEA:CTR:ZSE:46:
+
+;   Area C
+SEA_07_CTR:Seattle Center:128.450:C07:C:SEA:CTR:ZSE:07:
+SEA_11_CTR:Seattle Center:119.225:C11:C:SEA:CTR:ZSE:11:
+SEA_47_CTR:Seattle Center:118.550:C47:C:SEA:CTR:ZSE:47:
+
+;   Area D
+SEA_13_CTR:Seattle Center:135.350:C13:C:SEA:CTR:ZSE:13:
+SEA_14_CTR:Seattle Center:134.900:C14:C:SEA:CTR:ZSE:14:
+SEA_15_CTR:Seattle Center:135.150:C15:C:SEA:CTR:ZSE:15:
