@@ -1,0 +1,55 @@
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SamVa\Documents\AVTSUSA\Sector-Files\ZMA\ZMA 2206.sct2
+SECTORTITLE:ZMA 2206.sct2
+ARTCC boundary:Z:
+ARTCC high boundary:T:
+ARTCC low boundary:B:
+ARTCC low boundary:C:
+ARTCC low boundary:D:
+Geo:GEO:
+Regions:noname:polygon
+Sids:-- KAPF ASDE:
+Sids:-- KBCT ASDE:
+Sids:-- KBKV ASDE:
+Sids:-- KBOW ASDE:
+Sids:-- KEYW ASDE:
+Sids:-- KFLL ASDE:
+Sids:-- KFLL ASDE (2013):
+Sids:-- KFPR ASDE:
+Sids:-- KFXE ASDE:
+Sids:-- KHST ASDE:
+Sids:-- KHWO ASDE:
+Sids:-- KLAL ASDE:
+Sids:-- KMCF ASDE:
+Sids:-- KMIA 1547967:
+Sids:-- KMIA ASDE:
+VORs:BER:symbol
+VORs:DBN:symbol
+VORs:DNV:symbol
+VORs:GBG:symbol
+VORs:IJX:symbol
+VORs:JOT:symbol
+VORs:LWV:symbol
+VORs:MWA:symbol
+VORs:MZV:symbol
+VORs:OLK:symbol
+VORs:OWB:symbol
+VORs:SQS:symbol
+VORs:YFC:symbol
+VORs:YQM:symbol
+VORs:YXY:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:26.429045:-82.561198:28.563135:-78.180247
