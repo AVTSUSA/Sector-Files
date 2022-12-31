@@ -1,0 +1,4 @@
+VOICE
+AG:JAX_30_CTR:135.925:zjxvoice.avts.me:zjx30
+AG:JAX_35_CTR:134.850:zjxvoice.avts.me:zjx35
+END

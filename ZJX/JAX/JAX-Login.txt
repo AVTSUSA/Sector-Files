@@ -1,0 +1,22 @@
+PROFILE
+PROFILE:JAX_N_APP:100:5
+ATIS2:Jacksonville Approach
+ATIS3:Covering KJAX + Satellites Top Down
+ATIS4:When Local ATC is absent
+PROFILE:JAX_TWR:50:4
+ATIS2:Jacksonville Tower
+ATIS3:
+ATIS4:
+PROFILE:JAX_GND:20:3
+ATIS2:Jacksonville Ground
+ATIS3:
+ATIS4:
+PROFILE:JAX_DEL:5:2
+ATIS2:Jacksonville Delivery
+ATIS3:
+ATIS4:
+PROFILE:USA_XX_OBS:100:0
+ATIS2:AVTS Observer
+ATIS3:
+ATIS4:
+END
