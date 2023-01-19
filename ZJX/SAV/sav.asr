@@ -1,72 +1,18 @@
-DisplayTypeName:Standard ES radar screen
+DisplayTypeName:
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\SamVa\Documents\AVTSUSA\Sector-Files\ZJX\ZJX_ES_2208.ese
-SECTORTITLE:ZJX_ES_2208.ese
-ARTCC boundary:KZDC_H_CTR:
-ARTCC boundary:KZDC_L_CTR:
-ARTCC boundary:KZHU_L_CTR:
-ARTCC boundary:KZID_L_CTR:
-ARTCC boundary:KZJX_H_CTR:
-ARTCC boundary:KZJX_L_CTR:
-ARTCC boundary:KZMA_H_CTR:
-ARTCC boundary:KZMA_O_CTR:
-ARTCC boundary:KZME_L_CTR:
-ARTCC boundary:KZTL_L_CTR:
-ARTCC boundary:KZWY_H_CTR:
-ARTCC low boundary:CAE_APP:
-ARTCC low boundary:CHS_APP:
-ARTCC low boundary:CLT_APP:
-ARTCC low boundary:CSG_APP:
-ARTCC low boundary:DAB_APP:
-ARTCC low boundary:FAY_APP:
-ARTCC low boundary:FLO_APP:
-ARTCC low boundary:ILM_APP:
-ARTCC low boundary:JAX_H_APP:
-ARTCC low boundary:JAX_L_APP:
-ARTCC low boundary:MCN_APP:
-ARTCC low boundary:MCO_A_APP:
-ARTCC low boundary:MCO_APP:
-ARTCC low boundary:MCO_B_APP:
-ARTCC low boundary:MGM_APP:
-ARTCC low boundary:MIA_APP:
-ARTCC low boundary:MOB_APP:
-ARTCC low boundary:MYR_APP:
-ARTCC low boundary:NBC_RAP:
-ARTCC low boundary:OZR_RAP:
-ARTCC low boundary:PAM_APP:
-ARTCC low boundary:PBI_APP:
-ARTCC low boundary:PNS_APP:
-ARTCC low boundary:RSW_APP:
-ARTCC low boundary:SAV_APP:
-ARTCC low boundary:TLH_APP:
-ARTCC low boundary:TPA_APP:
-ARTCC low boundary:VLD_APP:
-ARTCC low boundary:VPS_APP:
-ARTCC low boundary:X8201:
-Fixes:FOSOL:name
-Fixes:FOSOL:symbol
-Fixes:LIBBY:name
-Fixes:LIBBY:symbol
-Fixes:ORTAR:name
-Fixes:ORTAR:symbol
-Fixes:TIKRY:name
-Fixes:TIKRY:symbol
-Fixes:TKREY:name
-Fixes:TKREY:symbol
-Fixes:TURKY:name
-Fixes:TURKY:symbol
-Fixes:WAGMO:name
-Fixes:WAGMO:symbol
-Fixes:WIGMO:name
-Fixes:WIGMO:symbol
-Fixes:WIGVO:name
-Fixes:WIGVO:symbol
-Sids:JAX > EAST OPS:
-Sids:JAX > SGJ SHELF:
-Sids:JAX > WEST OPS:
-Sids:SAV > BASIC APP:
-Stars:CLASS SURFACE AREAS:
+SECTORFILE:C:\Users\SamVa\Documents\AVTSUSA\Sector-Files\ZJX\SAV\SAV_2213.sct2
+SECTORTITLE:SAV_2213.sct2
+Airports:KCWV:name
+Airports:KHXD:name
+Airports:KLHW:name
+Airports:KSAV:name
+Airports:KSVN:name
+Airports:KTBR:name
+Geo:GEO:
+Stars:SAV > BASIC APP:
+Stars:SAV > TOWER 20NM:
+Stars:SAV > TOWER 6NM:
 VORs:AHN:symbol
 VORs:ALD:symbol
 VORs:AMG:symbol
@@ -221,7 +167,7 @@ SHOWC:1
 SHOWSB:0
 BELOW:0
 ABOVE:0
-LEADER:-1
+LEADER:5
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
@@ -229,4 +175,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)
-WINDOWAREA:36.126042:-83.638977:37.792708:-79.859330
+WINDOWAREA:31.938325:-81.596587:32.310308:-80.799883

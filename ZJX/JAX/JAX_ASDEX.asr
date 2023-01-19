@@ -1,4 +1,4 @@
-DisplayTypeName:
+DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\SamVa\Documents\AVTSUSA\Sector-Files\ZJX\JAX\JAX_ASDEX_2212.sct2
@@ -70,4 +70,4 @@ SIMULATION_MODE:4
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)
-WINDOWAREA:30.475695:-81.719515:30.505719:-81.651427
+WINDOWAREA:30.471756:-81.728026:30.509658:-81.642916

@@ -1,0 +1,7 @@
+VOICE
+AG:JAX_N_APP:127.000:zjxvoice.avts.me:jaxnorth
+AG:JAX_TWR:118.300:zjxvoice.avts.me:jaxtower
+AG:JAX_GND:121.900:zjxvoice.avts.me:jaxground
+AG:JAX_DEL:119.500:zjxvoice.avts.me:jaxdelivery
+AG:KJAX_ATIS:125.850:zjxvoice.avts.me:jaxatis
+END
